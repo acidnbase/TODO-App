@@ -25,7 +25,7 @@ A lightweight, high-performance REST API built with FastAPI. This project serves
 ### 1\. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fastapi-task-manager.git
+git clone https://github.com/your-username/TODO-App.git
 cd fastapi-task-manager
 ```
 
